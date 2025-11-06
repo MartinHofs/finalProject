@@ -1,0 +1,60 @@
+Pseudocode
+
+
+\\ Data here
+
+
+\\ Title
+	\\ If play: Go to game
+	\\ If don't: Exit
+
+\\ State Game Intro
+
+\\ Player Info
+
+\\ Room(Get in the escape Pod)
+
+\\ Choose something to do/inspect
+	\\ -1 Minute
+	\\ If possible, perform action
+
+\\ If you escape, you win
+\\ If Minute = 0, you lose
+
+\\ Ask if you want to play again
+
+
+---
+
+
+\\ The Room has a Vault, a Locked Door, an ID Card behind Glass, a Scanner Box, and the Escape Pod Hatch
+\\ It will explode in 60 Minutes
+\\ Good Luck
+
+\\ The Vault has 10 red numbers and a green 3
+\\ "What red number out of the ten available would make it where it plus 3 is 8 and it times 3 is 15?"
+\\ Answer: 5
+\\ You get the Key
+
+\\ The Locked Door has a Keyhole in it
+\\ If you use the key, it reveals a riddle.
+\\ "I can be half without getting thinner. I can shine with no fire. I can be hidden but never taken. I can stay dry while moving through the ocean. What am I?"
+\\ Answer: The Moon
+\\ You get the Hammer
+
+\\ The ID Card is behind thick Glass
+\\ If you have the hammer, you can break the glass
+\\ You get the ID Card
+
+\\ The Scanner Box is sleek and sharp.
+\\ If you have the ID Card, it opens to reveal a smaller box with a number pin code.
+\\ "The code is unknown. Here's a hint: Between 1 and 30"
+\\ Answer: Random Number
+\\ You get the Keycard
+
+\\ The Escape Pod is locked tight.
+\\ If you have the Keycard, you can open the Escape Pod
+\\ You win!
+
+\\ The Room explodes
+\\ You lose...
